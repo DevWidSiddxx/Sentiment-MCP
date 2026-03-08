@@ -1,4 +1,4 @@
-# 🤖 Gradio Sentiment Analysis MCP Server
+# 🤖 Sentiment Analysis MCP Server
 
 This is a dual-purpose Sentiment Analysis tool built with **Gradio** and **TextBlob**. It serves both a beautiful web interface for humans and a powerful **Model Context Protocol (MCP)** endpoint for AI models.
 
