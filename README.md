@@ -2,6 +2,10 @@
 
 This is a dual-purpose Sentiment Analysis tool built with **Gradio** and **TextBlob**. It serves both a beautiful web interface for humans and a powerful **Model Context Protocol (MCP)** endpoint for AI models.
 
+Live website:- https://huggingface.co/spaces/devwidsiddx/mcp-sentiment 
+
+Uses Hugging face space in colab with Gradio
+
 ## 🚀 Features
 - **Human-Friendly**: Clean web UI for manual sentiment testing.
 - **AI-Ready**: Exposes a standard MCP tool (`sentiment_analysis`) via SSE.
